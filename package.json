@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragdubey2004/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Anurag Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragdubey2004/namaste-react/issues"
+  },
+  "homepage": "https://github.com/anuragdubey2004/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
